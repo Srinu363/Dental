@@ -168,7 +168,7 @@ Confusion matrices visualize the per-class prediction performance highlighting c
 
 ---
 
-## Post-Processing Logic (Optional)
+## Post-Processing Logic
 
 To improve anatomical correctness, post-processing modules can:
 
