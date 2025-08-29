@@ -2,7 +2,7 @@
 
 ---
 
-![Sample Dental X-ray](https://github.com/Srinu363/Dental/blob/master/runs/tooth_detection/train_batch0.jpg)
+![Sample Dental X-ray](https://github.com/Srinu363/Dental/blob/master/ToothNumber_TaskDataset/images/05473f26-20240924-154033777.jpg)
 *Figure 1: Representative Panoramic Dental X-ray Image from Dataset*
 
 ---
